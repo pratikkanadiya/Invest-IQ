@@ -1,0 +1,11 @@
+my_env/
+my_venv/
+__pycache__/
+node_modules/
+.git/
+.env
+*.pyc
+large datasets
+model files
+cache/
+logs/
